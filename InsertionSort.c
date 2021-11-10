@@ -2,8 +2,8 @@
 Jayneel M Shah
 18:44,10-11-21
 Topic - Insertion Sort
-Worst Case Time Complexity - O(n^2)
-Best Case Time Complexity - O(n)
+Worst Case Time Complexity - O(n^2)  --> List is sorted in descending order
+Best Case Time Complexity - O(n)  --> List is sorted in ascending order
 */
 
 #include <stdio.h>
