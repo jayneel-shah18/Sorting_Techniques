@@ -2,6 +2,8 @@
 Jayneel M Shah
 18:42, 10-11-21
 Topic - Bubble Sort
+Worst Case Time Complexity - O(n^2)
+Best Case Time Complexity - O(n)
 */
 
 #include <stdio.h>
