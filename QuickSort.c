@@ -2,7 +2,8 @@
 Jayneel M Shah
 11:20, 09-06-22
 Topic - Quick Sort
-Worst Case Time Complexity - O(nlogn)
+Worst Case Time Complexity - O(n^2)
+Best Case Time Complexity - O(nlogn)
 Divide and Conquer
 */
 #include <stdio.h>
