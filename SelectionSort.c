@@ -4,7 +4,7 @@ Jayneel M Shah
 Topic - Selection Sort
 Worst Case Time Complexity - O(n^2)
 Number of Comparisons - O(n^2)
-NUmber of swaps - O(n)
+Number of swaps - O(n)
 */
 #include <stdio.h>
 #include <stdlib.h>
